@@ -1,0 +1,4 @@
+Suma: 0
+Media aritmetică: NaN
+Valoarea minimă: 2147483647
+Valoarea maximă: -2147483648

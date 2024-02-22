@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0eab537-1a7c-45d4-a613-45e9a0dc1067" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab1/tema/Exercitiu3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab1/tema/Exercitiu4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/out.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab1/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +40,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Enache-Roxana-Cristina&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/roxan/Desktop/JAVA Curs/JavaLaboratoare/src/main/java/org/example/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roxan\Desktop\JAVA Curs\JavaUPT\src\main\java\org\example\laboratoare\lab1\tema" />
+      <recent name="C:\Users\roxan\Desktop\JAVA Curs\JavaUPT\src\main\java\org\example\laboratoare\lab1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
