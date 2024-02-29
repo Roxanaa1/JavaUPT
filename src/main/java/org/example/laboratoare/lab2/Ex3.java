@@ -38,7 +38,7 @@ clasei StringBuilder. */
             int nrCaractere = scanner.nextInt();
             stringBuilder.delete(pozitieStergere, pozitieStergere + nrCaractere);
             String rezultat = stringBuilder.toString();
-            System.out.println("Sirul dupa stergere: " + rezultat);
+            System.out.println("Sirul dupa stergere:" + rezultat);
 
             scanner.close();
         }
