@@ -42,7 +42,7 @@ introdus de la tastatură. Se va utiliza metoda de căutare binară din clasa Ar
 
         }catch (FileNotFoundException e)
         {
-            e.getMessage();
+            System.out.println(e.getMessage());
         }
     }
 }
