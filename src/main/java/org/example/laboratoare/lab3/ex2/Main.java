@@ -62,7 +62,8 @@ public class Main
             while (scanner.hasNextLine()) {
                 String linie = scanner.nextLine();
                 String[] atribute = linie.split(",");
-                if (atribute.length == 4) {
+                if (atribute.length == 4)
+                {
                     String nume = atribute[0].trim();
                     double pret = Double.parseDouble(atribute[1].trim());
                     int cantitate = Integer.parseInt(atribute[2].trim());
@@ -71,10 +72,12 @@ public class Main
                     produse.addProdus(produs);
                 }
             }
+
         } catch (FileNotFoundException e) {
-            System.out.println("Fișierul nu a fost găsit: " + e.getMessage());
+            System.out.println("Fisierul nu a fost gasit: " + e.getMessage());
         } catch (NumberFormatException e) {
             System.out.println("Eroare la parsarea numerelor: " + e.getMessage());
         }
+
     }
 }

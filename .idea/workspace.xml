@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0eab537-1a7c-45d4-a613-45e9a0dc1067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex2/GestiuneProduse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex2/Produs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/parabola.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/produse.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex1/Punct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/Parabola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/Parabola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/Parabola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex1/Parabola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/laboratoare/lab3/ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/parabola.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/parabola.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +53,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.laboratoare.lab3.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.example.laboratoare.lab3.ex1.Main" />
       <module name="JavaUPT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.laboratoare.lab3.*" />
+          <option name="PATTERN" value="org.example.laboratoare.lab3.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
