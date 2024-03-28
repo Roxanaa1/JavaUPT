@@ -1,5 +1,7 @@
 package org.example.laboratoare.lab3.ex2;
 
+import org.example.laboratoare.lab4.Copiator;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -14,6 +16,7 @@ public class Main
     {
         GestiuneProduse produse = new GestiuneProduse();
         citesteProduseDinFisier(produse);
+
         Scanner scanner=new Scanner(System.in);
         while(true)
         {
@@ -57,6 +60,8 @@ public class Main
     }
     private static void citesteProduseDinFisier(GestiuneProduse produse)
     {
+
+
         try (Scanner scanner = new Scanner(new File("src/main/resources/produse.csv")))
         {
             while (scanner.hasNextLine()) {

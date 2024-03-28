@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Maria",
+    "post": "Caserita",
+    "dataAngajarii": "2023-04-10",
+    "salariu": 3900.0
+  },
+  {
+    "nume": "Ion",
+    "post": "Sef",
+    "dataAngajarii": "2023-07-10",
+    "salariu": 1500.0
+  },
+  {
+    "nume": "Crina",
+    "post": "Director",
+    "dataAngajarii": "2023-01-10",
+    "salariu": 2900.0
+  },
+  {
+    "nume": "MIHAI",
+    "post": "Sef",
+    "dataAngajarii": "2023-04-14",
+    "salariu": 1900.0
+  },
+  {
+    "nume": "Ionut",
+    "post": "Sef",
+    "dataAngajarii": "2023-09-10",
+    "salariu": 4900.0
+  }
+]
